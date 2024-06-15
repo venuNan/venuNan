@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 i am learning frontend technology for learning backend and python development<br>👯‍♂️i am looking to collaborate on a python project
+🔭 i am learning frontend technologies for learning backend and python development<br>👯‍♂️i am looking to collaborate on a python project
 
 
 ## 🌐 Socials:
