@@ -1,5 +1,5 @@
 # 💫 About Me:
-* I’m Venu Dhagumati, an Electrical Engineering graduate who somehow decided that electrons weren’t enough and moved into Python backend development. 😄
+* I’m Venu Dhagumati, an Electrical Engineering graduate who somehow decided that working with electrons wasn’t enough and moved into Python backend development. 😄
 * My tech stack includes Python, Flask, REST APIs, SQL/MySQL, Redis, Docker, Linux, Git, Nginx, and Gunicorn, with a focus on building reliable backend applications.
 * Currently looking for an opportunity as a Python Backend Developer, where I can contribute, learn from experienced developers, and turn my “I can figure it out” attitude into production-ready code. 🚀
 
